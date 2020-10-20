@@ -1,0 +1,3 @@
+﻿  exercise11.c
+D:\C\Exercise11\exercise11.c(11,13): warning C4477: 'scanf_s' : la cadena de formato '%i' requiere un argumento de tipo 'int *', pero el argumento variádico 1 tiene el tipo 'float *'
+  Exercise11.vcxproj -> C:\Users\Victor\source\repos\BasicLevelExercises\Debug\Exercise11.exe
