@@ -1,0 +1,4 @@
+﻿  exercise03.c
+D:\C\AdvancedLevelExercises\AdvancedLevelExercises\Exercise03\exercise03.c(16,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\C\AdvancedLevelExercises\AdvancedLevelExercises\Exercise03\exercise03.c(17,1): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+  Exercise03.vcxproj -> D:\C\AdvancedLevelExercises\AdvancedLevelExercises\Debug\Exercise03.exe

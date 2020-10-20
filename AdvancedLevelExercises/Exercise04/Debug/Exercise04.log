@@ -1,0 +1,3 @@
+﻿  exercise04.c
+D:\C\AdvancedLevelExercises\AdvancedLevelExercises\Exercise04\exercise04.c(8,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Exercise04.vcxproj -> D:\C\AdvancedLevelExercises\AdvancedLevelExercises\Debug\Exercise04.exe

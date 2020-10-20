@@ -1,0 +1,3 @@
+﻿  exercise05.c
+D:\C\MediumLevelExercises\Exercise05\exercise05.c(10,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Exercise05.vcxproj -> D:\C\MediumLevelExercises\Exercise01\Debug\Exercise05.exe

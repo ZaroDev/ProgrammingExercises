@@ -1,0 +1,4 @@
+﻿  exercise03.c
+C:\Users\Victor\source\repos\Exercise03\exercise03.c(13,2): warning C4550: la expresión se evalúa como una función a la que le falta una lista de argumentos
+C:\Users\Victor\source\repos\Exercise03\exercise03.c(17,2): warning C4550: la expresión se evalúa como una función a la que le falta una lista de argumentos
+  Exercise03.vcxproj -> C:\Users\Victor\source\repos\BasicLevelExercises\Debug\Exercise03.exe
