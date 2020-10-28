@@ -1,0 +1,4 @@
+﻿  exercise08.c
+D:\C\AdvancedLevelExercises\Exercise08\exercise08.c(49,90): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\C\AdvancedLevelExercises\Exercise08\exercise08.c(62,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Exercise08.vcxproj -> D:\C\AdvancedLevelExercises\x64\Debug\Exercise08.exe
